@@ -1,10 +1,10 @@
 package projeto.model;
 
-public class Principal {
+public class Produto {
 	private String nome;
 	private int codigo;
 	private float preco;
-	public Principal(String nome, int codigo, float preco) {
+	public Produto(String nome, int codigo, float preco) {
 		this.nome = nome;
 		this.codigo = codigo;
 		this.preco = preco;
